@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Effortlessly rent the car you need for any journey with our seamless and friendly service.",
+        "title": "Discover Your Perfect Ride"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Effortlessly rent the car you need for any journey with our seamless and friendly service.",
+        "title": "Discover Your Perfect Ride"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Effortlessly rent the car you need for any journey with our seamless and friendly service.",
+        "title": "Discover Your Perfect Ride"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Effortlessly rent the car you need for any journey with our seamless and friendly service.",
+        "title": "Discover Your Perfect Ride"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Effortlessly rent the car you need for any journey with our seamless and friendly service.",
+        "title": "Discover Your Perfect Ride"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Effortlessly rent the car you need for any journey with our seamless and friendly service.",
+        "title": "Discover Your Perfect Ride"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Effortlessly rent the car you need for any journey with our seamless and friendly service.",
+        "title": "Discover Your Perfect Ride"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Effortlessly rent the car you need for any journey with our seamless and friendly service.",
+        "title": "Discover Your Perfect Ride"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Effortlessly rent the car you need for any journey with our seamless and friendly service.",
+        "title": "Discover Your Perfect Ride"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Discover Your Perfect Ride",
+  "subtitle": "Effortlessly rent the car you need for any journey with our seamless and friendly service."
+}
